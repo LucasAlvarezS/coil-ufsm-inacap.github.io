@@ -50,6 +50,7 @@ https://docs.google.com/document/d/1cdApG_NASErAgNSM-PhvkPt0JYrQgm7uBKq_m_X1sMU/
 
 - [Repositório backend](https://github.com/pinhalgrandense/tour-guard-api)
 - [Repositório frontend](https://github.com/Lorenzo-Weber/tour-guard-web/)
+- [Repositório app](https://github.com/LucasAlvarezS/miningtour-ff) 
 
 ##### Outros links:
 - [Documento de visão](https://docs.google.com/document/d/15b13r4bWp9RUKOxtdpLUxmUVT940hXVtd4_jBFsNEuI/edit?usp=sharing)
